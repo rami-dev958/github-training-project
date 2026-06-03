@@ -88,10 +88,6 @@ assets/
 └── mobile-preview.png
 ```
 
-Example:
-
-![Desktop Preview](assets/desktop-preview.png)
-
 ---
 
 ## 🤝 Contributing
