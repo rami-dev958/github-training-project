@@ -44,6 +44,7 @@ body {
 
 .nav-links a:hover {
     color: #3498db;
+    text-decoration: underline;
 }
 
 /* تنسيق المحتوى الرئيسي والبطاقة */
